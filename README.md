@@ -1,13 +1,13 @@
 # MiniChat
 
-Biên dịch Server
+Biên dịch Server <br>
 javac Server.java
 
-Khởi động Server
+Khởi động Server<br>
 java Server
 
-Biên dịch Client
+Biên dịch Client<br>
 javac Client.java
 
-Khởi động Client
+Khởi động Client<br>
 java Client
